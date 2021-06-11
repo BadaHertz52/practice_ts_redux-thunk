@@ -5,7 +5,7 @@
 
 #### 1. 시리즈
   * [redux- thunk](https://github.com/BadaHertz52/practice_ts_redux-thunk)
-  * [redux- saga](https://github.com/BadaHertz52/practice_ts_redux_saga)
+  * [redux- saga](https://github.com/BadaHertz52/practice_ts_redux-saga)
   * [redux- thunk, redux-saga 리팩토링](https://github.com/BadaHertz52/practice_ts_redux_middleware ) 
 
 #### 2. 구현하고자 한 기능 
