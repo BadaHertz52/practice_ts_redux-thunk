@@ -4,7 +4,7 @@
 ###### * 위의 시리즈는 **[해당 수업 내용](https://react.vlpt.us/using-typescript/06-ts-redux-middleware.html)** 을 실습하고 공부하며 개인적으로 보충한 것입니다. ☺
 
 #### 1. 시리즈
-  * [redux- thunk](https://github.com/BadaHertz52/practice_ts_redux_thunk)
+  * [redux- thunk](https://github.com/BadaHertz52/practice_ts_redux-thunk)
   * [redux- saga](https://github.com/BadaHertz52/practice_ts_redux_saga)
   * [redux- thunk, redux-saga 리팩토링](https://github.com/BadaHertz52/practice_ts_redux_middleware ) 
 
