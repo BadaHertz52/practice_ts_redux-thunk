@@ -1,0 +1,6 @@
+import { combineReducers } from "redux";
+import github from './github/reducer';
+
+const  rootReducer = combineReducers({github});
+export default rootReducer ;
+export type RootState = ReturnType<typeof rootReducer>;
